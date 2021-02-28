@@ -3,3 +3,4 @@ const a = (a) => (b) => {
 }
 
 alert("This is a new project!")
+alert("what is new!")
