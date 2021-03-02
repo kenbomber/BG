@@ -1,0 +1,10 @@
+useful NPM packages.
+1. live-sever.js
+npm install -g live-server
+2. lodash.js
+npm i --save lodash ---------->installed locally
+
+NPM allows global and local installation of packages
+The local installation means the installed packages are only allowed to be installed in the selected folder
+
+live-server text the change of the webpage and auto change the webpage without refreshing it

@@ -9,4 +9,6 @@ header {
 
 ol {
     display: inline-block;
+    text-align: center;
+    font-size: 35px;
 }
